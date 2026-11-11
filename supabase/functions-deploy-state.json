@@ -1,0 +1,25 @@
+{
+  "projectId": "61324510",
+  "functions": {
+    "ask-echo": {
+      "hasChanged": false,
+      "hash": "a37fe6f9c57d5fb8b8f235232a9d2b7ab47fd11419a493261a52363e7cb5e495"
+    },
+    "contact-message": {
+      "hasChanged": false,
+      "hash": "441826d223d7d5e957f52e8d65d2883783840e6a53523cd0d7788489fca15e77"
+    },
+    "contact-request": {
+      "hasChanged": false,
+      "hash": "848f52c2a751f2511f3bfd81ed9e420f31f9d27ab4a5c1988409705d21a5a046"
+    },
+    "newsletter-subscribe": {
+      "hasChanged": false,
+      "hash": "ac9ccd1cdacbd42ad1b6153a8491266b6e89c31023362019e0e6d214afd0b99a"
+    },
+    "request-quote": {
+      "hasChanged": false,
+      "hash": "132053b5c34d1099a142c9954d0e35c6bfbafe37d3622ea2e67a017a289f4765"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/// <reference types="vite/client" />
+
+declare namespace JSX {
+  interface IntrinsicElements {
+    'hana-viewer': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      url: string;
+      style?: React.CSSProperties;
+    };
+  }
+}

@@ -1,0 +1,11 @@
+[functions.request-quote]
+verify_jwt = false
+
+[functions.contact-message]
+verify_jwt = false
+
+[functions.contact-request]
+verify_jwt = false
+
+[functions.ask-echo]
+verify_jwt = false
