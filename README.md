@@ -4,7 +4,7 @@
 
 🔗 **Live:** [echocorp.co.za](https://echocorp.co.za)
 
-![Echo Corp homepage](docs/hero.jpg)
+![Echo Corp homepage](hero.jpg)
 
 ## What's interesting about it
 
@@ -17,13 +17,13 @@
 
 | Capabilities | Echo AI assistant |
 |---|---|
-| ![Capabilities](docs/capabilities.jpg) | ![Echo assistant](docs/assistant.jpg) |
+| ![Capabilities](capabilities.jpg) | ![Echo assistant](assistant.jpg) |
 
 | Pricing | Contact form → AI pipeline |
 |---|---|
-| ![Pricing](docs/pricing.jpg) | ![Contact form](docs/contact.jpg) |
+| ![Pricing](pricing.jpg) | ![Contact form](contact.jpg) |
 
-<p align="center"><img src="docs/mobile.jpg" width="300" alt="Mobile view"></p>
+<p align="center"><img src="mobile.jpg" width="300" alt="Mobile view"></p>
 
 ## Architecture
 
